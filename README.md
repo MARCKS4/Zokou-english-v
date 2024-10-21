@@ -25,7 +25,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 2. Obtain a bot session: 
 
 - [Session-1](https://zkscan.onrender.com)  
-- [Session-2](https://zokouscan.onrender.com)  
+- [Session-2](https://zokouscan-din3.onrender.com)
 
 3. Deploy Zokou
 - **Heroku Deployment:**
@@ -55,7 +55,7 @@ PM_PERMIT=no
 BOT_NAME=Zokou-MD
 BOT_MENU_LINKS=https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg
 PUBLIC_MODE=yes
-DATABASE_URL=postgresql://postgres:taajrTrRWXxhFYHuAKclPaWlsxCMFzLT@junction.proxy.rlwy.net:57114/railway
+DATABASE_URL=postgresql://zokouve_user:PcNcDevxRd7TcKQPTerL954MB1bbMciX@dpg-cs9ku688fa8c73cbth20-a.oregon-postgres.render.com/zokouve
 OWNER_NAME=Djalega++
 NUMERO_OWNER=22891733300
 WARN_COUNT=3
